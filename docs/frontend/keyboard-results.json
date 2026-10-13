@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-13T06:05:56.374Z",
+  "mocked": true,
+  "broadcast": false,
+  "passed": true,
+  "steps": [
+    "Connect wallet with Tab + Enter",
+    "Normalize answer, prepare, acknowledge backup, and approve by keyboard",
+    "Commit, refresh after a later block, and reveal by keyboard",
+    "200% root text enlargement at 390px, no horizontal scroll"
+  ],
+  "textEnlargement": {
+    "width": 390,
+    "scrollWidth": 390,
+    "offenders": []
+  }
+}

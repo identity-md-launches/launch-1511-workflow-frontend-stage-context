@@ -1,0 +1,9 @@
+# Reference attribution
+
+The interface review used the assignment's pinned Better Interface guide, adapted from Jakub Krehel's Better Interface at commit `267330e1adfc66a718fb65fa6918c1f06d0a689e` (MIT). Its documentation method is adapted from Paul Bakaus's Impeccable reference at commit `9d715cc4f5564a990ca8345abfdd5df6dc9b41c8` (Apache-2.0), [upstream document method](https://github.com/pbakaus/impeccable/blob/9d715cc4f5564a990ca8345abfdd5df6dc9b41c8/skill/reference/document.md). The supplied combined notices and licenses are preserved in [BETTER-INTERFACE-LICENSE.txt](BETTER-INTERFACE-LICENSE.txt).
+
+The wallet and transaction review used the assignment's pinned ethskills frontend-ux adapter, based on Austin Griffith's guide at commit `06ea4efa08076ff04f6ca4945ef4a2ca881115b0` (MIT). The supplied license is preserved in [ETH-FRONTEND-UX-LICENSE.txt](ETH-FRONTEND-UX-LICENSE.txt). The pinned guide was read locally; the upstream ethskills site was not fetched.
+
+Implementation API details were checked against primary references: [viem simulateContract](https://viem.sh/docs/contract/simulateContract), [viem clients and transports](https://viem.sh/docs/clients/intro), [Uniswap v4 swaps](https://developers.uniswap.org/docs/protocols/v4/guides/swapping/swapping), [IV4Router errors](https://github.com/Uniswap/v4-periphery/blob/main/src/interfaces/IV4Router.sol), and [Universal Router interface](https://github.com/Uniswap/universal-router/blob/main/contracts/interfaces/IUniversalRouter.sol). The assignment's pinned network addresses and `extendedSwapParams` setting remain authoritative over current upstream examples.
+
+The terminal mark, waveform, favicon and share-card artwork were created in repository-native SVG/CSS for this implementation. No stock images or externally hosted font assets are used. Application contract ABIs are the unmodified implementation-derived exports from the attested source commit.

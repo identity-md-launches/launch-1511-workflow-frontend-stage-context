@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-13T06:16:39.640893+00:00",
+  "sourceCommit": "4d79c51a6b8a87ec356b4432c55d32e1f567624e",
+  "manifestSha256": "53badb1c6e0a15263f3a22015e1a83aa79321df33c6155b8a6d2e9375a901df9",
+  "node": "v24.21.0",
+  "packageLockSha256": "2672cb7a49c57a9b3404f1243be4c89216e7774ce779465e3c4e19b76d940bac",
+  "commands": {
+    "build": "passed (includes TypeScript and final manifest generation)",
+    "unitTests": {
+      "passed": 11,
+      "failed": 0
+    },
+    "chromiumScenarios": {
+      "passed": 18,
+      "failed": 0
+    },
+    "keyboardAndTextEnlargement": "passed",
+    "manifestVerification": "passed",
+    "dependencyAudit": "zero reported vulnerabilities"
+  },
+  "scope": {
+    "newFilesBeforeThisRecord": 63,
+    "modifiedExistingFiles": [],
+    "allowedPrefixes": [
+      "web/",
+      "dist/",
+      "docs/"
+    ],
+    "ignoreFileAllowance": "web/.gitignore",
+    "submodulesAdded": false,
+    "dependencyDirectoriesInSubmission": false
+  },
+  "sourceFiles": {
+    "web/src/App.tsx": "de90ff981f5ca0f73799e028f4d2aadfc690f6e5e47c6d5ceff24f4ac62dad0c",
+    "web/src/Guess.tsx": "3af0f204e18bce9928bf04cd70ac45517421302c22cd24047f91ef88bdfb1fc6",
+    "web/src/History.tsx": "bdffa39d48d854f2204098f8272ee49c10311ee44d0ecb6f75ed28182428d30c",
+    "web/src/Owner.tsx": "bc6f192d5f84487854b5fce0f6985dab65701ec6c9fa5f380d01ecc03950ad5c",
+    "web/src/Swap.tsx": "93f7b4425491e9a8616b608d03f1743c03d1e2f87677898bed6c1c577e619eaa",
+    "web/src/config.ts": "3e62a8d143ef7f818e29c4c5f408e4887bed4bf6877ddd8082f16569a30baf28",
+    "web/src/domain.ts": "aaa02f505b74d8529929829713add3668421a28a4ef33d470e02fabe4db8e12c",
+    "web/src/main.tsx": "4e755296aed3722ad755cfedaa558fcd8c5c352d857111846ed9fe7ecd45f68f",
+    "web/src/protocol.ts": "3aa8ab04e8cf736aa29b70301234b670129aabd5d27123017126de9816f791fd",
+    "web/src/session.tsx": "f9ef17445d1ad128a8a7c40a3789ec265e270c171ade985cc63a47919a1ec5ad",
+    "web/src/styles.css": "223c0f336ede6fac2a3d679bc0eeff47b574f03bee5925c0961f292af993f0bd",
+    "web/src/ui.tsx": "339c5c6fcaff4d98d9dde6a1d55406b264eeef61ca813d83ce499db7243bcfc9"
+  }
+}

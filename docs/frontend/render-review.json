@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-13T06:09:04.990Z",
+  "source": "Final production export; pinned taste@1 and browser-tool measurement",
+  "viewports": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "firstScreen390": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "primaryAction": {
+      "x": 29,
+      "y": 744.625,
+      "width": 332,
+      "height": 44
+    },
+    "visible": true
+  },
+  "probe": {
+    "passed": 14,
+    "total": 16,
+    "rawFlags": [
+      "eyebrows",
+      "type-faces"
+    ]
+  },
+  "minimumResolvedTextContrast": 7.99,
+  "limitations": [
+    "Probe contrast resolves solid backgrounds, not the decorative scanline overlay.",
+    "Viewport emulation is not a physical-device or native-browser-zoom test."
+  ]
+}

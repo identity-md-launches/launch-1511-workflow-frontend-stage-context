@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-13T06:06:00.823Z",
+  "mocked": true,
+  "broadcast": false,
+  "checks": [
+    {
+      "name": "Disconnected, missing wallet, metadata and responsive first screen",
+      "passed": true
+    },
+    {
+      "name": "Connection rejection, wrong-chain switch and 4902 add-chain fallback",
+      "passed": true
+    },
+    {
+      "name": "Approval rejection, pending lock, commit, reload recovery, wrong answer and winning reveal",
+      "passed": true
+    },
+    {
+      "name": "Storage denied, recovery export and wrong-wallet restore protection",
+      "passed": true
+    },
+    {
+      "name": "Reveal expired and account-change recovery isolation",
+      "passed": true
+    },
+    {
+      "name": "Owner-only set token, exact approval/fund, browser-hashed publish and hint",
+      "passed": true
+    },
+    {
+      "name": "IMD buy, two approvals, simulated router execution and exact pool encoding",
+      "passed": true
+    },
+    {
+      "name": "Sell SORN, quote invalidation and simulation failure never signs",
+      "passed": true
+    },
+    {
+      "name": "Missing deployed code disables writes and recovers on refresh",
+      "passed": true
+    },
+    {
+      "name": "Event-derived leaderboard, long values, focus and reduced motion",
+      "passed": true
+    },
+    {
+      "name": "Mined revert has retry feedback without confirmed success",
+      "passed": true
+    },
+    {
+      "name": "Recovery archive restores the mined guess before replacement is submitted",
+      "passed": true
+    },
+    {
+      "name": "Reload during pending approval requires receipt check and prevents duplicates",
+      "passed": true
+    },
+    {
+      "name": "Account switch during simulation aborts before signing",
+      "passed": true
+    },
+    {
+      "name": "RPC outage keeps amounts unknown and retry recovers",
+      "passed": true
+    },
+    {
+      "name": "ABI tampering is rejected before wallet use",
+      "passed": true
+    },
+    {
+      "name": "Quote expiry and transmission disclosure respect live controls",
+      "passed": true
+    },
+    {
+      "name": "Selected discovered wallet is honored by the main connection action",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "WebKit did not launch: ║ Host system is missing dependencies to run browsers. ║ ║ Missing libraries:                                   ║ ║     libgstreamer-1.0.so.0                            ║ ║     libgtk-4.so.1                                    ║ ║     libpangocairo-1.0.so.0                           ║ ║     libgdk_pixbuf-2.0.so.0                           ║ ║     libcairo-gobject.so.2                            ║ ║     libgraphene-1.0.so.0                             ║ ║     libicudata.so.76                                 ║ ║     libicui18n.so.76                                 ║ ║     libicuuc.so.76                                   ║ ║     libxslt.so.1                                     ║ ║     liblcms2.so.2                                    ║ ║     libwoff2dec.so.1.0.2                             ║ ║     libvpx.so.9                                      ║ ║     libevent-2.1.so.7                                ║ ║     libopus.so.0                                     ║ ║     libgcrypt.so.20          "
+  ]
+}

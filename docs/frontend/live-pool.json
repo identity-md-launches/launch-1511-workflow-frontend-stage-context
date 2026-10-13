@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-13T05:48:38.895Z",
+  "readOnly": true,
+  "broadcast": false,
+  "contracts": [
+    {
+      "name": "poolManager",
+      "address": "0x000000000004444c5dc75cb358380d2e3de08a90",
+      "nonemptyCode": true
+    },
+    {
+      "name": "universalRouter",
+      "address": "0x66a9893cc07d91d95644aedd05d03f95e1dba8af",
+      "nonemptyCode": true
+    },
+    {
+      "name": "quoter",
+      "address": "0x52f0e24d1c21c8a0cb1e5a5dd6198556bd9e1203",
+      "nonemptyCode": true
+    },
+    {
+      "name": "stateView",
+      "address": "0x7ffe42c4a5deea5b0fec41c94c136cf115597227",
+      "nonemptyCode": true
+    },
+    {
+      "name": "positionManager",
+      "address": "0xbd216513d74c8cf14cf4747e6aaa6420ff64ee9e",
+      "nonemptyCode": true
+    },
+    {
+      "name": "permit2",
+      "address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+      "nonemptyCode": true
+    }
+  ],
+  "quote": {
+    "input": "1 IMD",
+    "amountOut": "392488519472942605450173",
+    "gasEstimate": "37072",
+    "mode": "eth_call only"
+  },
+  "pair": {
+    "address": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
+    "symbol": "IMD",
+    "decimals": 18
+  }
+}

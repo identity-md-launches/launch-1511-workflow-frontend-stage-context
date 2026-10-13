@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-13T06:20:32.827966+00:00",
+  "limitBytes": 8388608,
+  "baseCommit": "4d79c51a6b8a87ec356b4432c55d32e1f567624e",
+  "method": "Verification-only Git commit in /tmp with every deliverable, bundled as HEAD excluding the existing base commit; original workspace Git metadata unchanged. git bundle verify passed.",
+  "bundleBytesBeforeThisSmallReport": 762798,
+  "documentationReserveBytes": 65536,
+  "conservativeBoundBytes": 828334,
+  "passed": true,
+  "exportAssets": 8,
+  "exportAssetBytes": 653594,
+  "newDeliverableBytesBeforeThisReport": 1597772,
+  "dependenciesOrCachesInBundle": false,
+  "submodules": false
+}

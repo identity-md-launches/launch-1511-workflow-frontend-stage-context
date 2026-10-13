@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-13T05:38:28.623Z",
+  "readOnly": true,
+  "block": "26181528",
+  "state": {
+    "owner": "0xEe8a3066A7ffD68f902427058Cf5dcF706EF6e95",
+    "token": "0x0000000000000000000000000000000000000000",
+    "lastPublishedChapter": "0",
+    "chaptersSolved": "0",
+    "totalBurned": "0",
+    "COMMIT_COST": "100000000000000000000",
+    "REVEAL_WINDOW": "86400"
+  }
+}

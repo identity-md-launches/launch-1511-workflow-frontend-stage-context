@@ -1,0 +1,42 @@
+{
+  "readOnly": true,
+  "broadcast": false,
+  "results": [
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com",
+      "checkedAt": "2026-10-13T05:28:33.309Z",
+      "chainId": 1,
+      "contracts": [
+        {
+          "name": "LaunchToken",
+          "nonemptyCode": true,
+          "codeBytes": 1722
+        },
+        {
+          "name": "SorenVault",
+          "nonemptyCode": true,
+          "codeBytes": 8051
+        }
+      ],
+      "verified": true
+    },
+    {
+      "rpc": "https://eth.drpc.org",
+      "checkedAt": "2026-10-13T05:28:33.446Z",
+      "chainId": 1,
+      "contracts": [
+        {
+          "name": "LaunchToken",
+          "nonemptyCode": true,
+          "codeBytes": 1722
+        },
+        {
+          "name": "SorenVault",
+          "nonemptyCode": true,
+          "codeBytes": 8051
+        }
+      ],
+      "verified": true
+    }
+  ]
+}
